@@ -7,3 +7,5 @@ O
 contracts/service-exchange.clar,c/f/cffd6c5606a869e602b2f89b8c73b43b6bc8067c
 N
 tests/service-exchange.test.ts,b/c/bc01990ffa6207f140242482518114ebb293c270
+T
+$contracts/community-integration.clar,4/8/489a740b9d79e36af39d71d68eb2a235ee86a56e
