@@ -11,3 +11,5 @@ T
 $contracts/community-integration.clar,4/8/489a740b9d79e36af39d71d68eb2a235ee86a56e
 S
 #tests/community-integration.test.ts,2/d/2de43927e6bdecd7c84ffc733925d08b5094e3c9
+P
+ contracts/reputation-system.clar,8/f/8f85a02c68bbab1632e6c7d1d0725529f935513d
