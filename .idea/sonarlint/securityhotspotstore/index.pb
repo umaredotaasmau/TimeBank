@@ -9,3 +9,5 @@ N
 tests/service-exchange.test.ts,b/c/bc01990ffa6207f140242482518114ebb293c270
 T
 $contracts/community-integration.clar,4/8/489a740b9d79e36af39d71d68eb2a235ee86a56e
+S
+#tests/community-integration.test.ts,2/d/2de43927e6bdecd7c84ffc733925d08b5094e3c9
