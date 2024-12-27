@@ -65,6 +65,11 @@ plan:
             path: contracts/service-exchange.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: skill-matching
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/skill-matching.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: time-credit
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/time-credit.clar
